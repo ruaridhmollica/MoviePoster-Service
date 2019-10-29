@@ -14,3 +14,5 @@ A web service that provides information about films using an API:
 * CSS
 * PHP
 * JavaScript
+#
+Note: src files are located in /docs. In the PHP file, the commented out segment is the connection to the new york times API that has recently been changed. To prevent any errors i have removed this feature.
